@@ -1,3 +1,14 @@
+//**************************************************************************
+// Práctica 1
+//
+// Domingo Martin Perandres 2013-2016
+// Modificaciones para soportar macOS: Carlos Rodríguez Domínguez 2016
+// Creacion de los Objetos: Antonio Marfil Sánchez
+//
+// GPL
+//**************************************************************************
+
+
 #include <stdlib.h>
 #include <stdio.h>
 
